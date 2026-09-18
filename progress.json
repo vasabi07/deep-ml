@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T14:03:58.539Z",
+  "generated_at": "2026-09-18T15:00:29.933Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -78,6 +78,19 @@
       "last_pushed_at": "2026-09-18T14:03:57.873Z",
       "language": "python",
       "lines": 27
+    },
+    "lab:9": {
+      "kind": "lab",
+      "id": "9",
+      "title": "Design Your Own Activation Function",
+      "difficulty": "easy",
+      "category": "Activation Functions",
+      "url": "https://www.deep-ml.com/labs/9",
+      "path": "labs/0009-design-your-own-activation-function",
+      "first_solved_at": "2026-09-18T15:00:28.736Z",
+      "last_pushed_at": "2026-09-18T15:00:28.736Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
