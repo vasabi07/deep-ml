@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T13:20:00.604Z",
+  "generated_at": "2026-09-19T13:33:05.043Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -243,6 +243,17 @@
       "path": "math/0004-backpropagation-and-the-chain-rule",
       "first_solved_at": "2026-09-19T13:19:59.537Z",
       "last_pushed_at": "2026-09-19T13:19:59.537Z"
+    },
+    "math:35": {
+      "kind": "math",
+      "id": "35",
+      "title": "Matrix Calculus Identities",
+      "difficulty": "medium",
+      "category": "Calculus for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/35",
+      "path": "math/0035-matrix-calculus-identities",
+      "first_solved_at": "2026-09-19T13:33:04.128Z",
+      "last_pushed_at": "2026-09-19T13:33:04.128Z"
     }
   }
 }
