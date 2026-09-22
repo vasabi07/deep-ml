@@ -14,8 +14,7 @@ def single_neuron_forward(x):
     # TODO: build nn.Linear(3, 1), set fixed weight/bias under no_grad, return float output
     neural_network = nn.Linear(3,1)
     with torch.no_grad():
-        neural_network.weight.copy_(torch.tensor([[0.5, -0.2, 0.3]]))
+        neural_network.weight.copy_(torch.tensor([[0.5,-0.2,0.3]]))
         neural_network.bias.copy_(torch.tensor([0.1]))
-    return neural_network(x).item()
-    pass
-    
+    y_pred = neural_network(x)
+    return y_pred.item()

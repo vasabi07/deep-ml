@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T16:07:24.956Z",
+  "generated_at": "2026-09-22T16:23:29.903Z",
   "items": {
     "problem:22": {
       "kind": "problem",
@@ -166,7 +166,7 @@
       "url": "https://www.deep-ml.com/problems/1224",
       "path": "problems/1224-single-linear-neuron-forward",
       "first_solved_at": "2026-09-18T23:57:40.053Z",
-      "last_pushed_at": "2026-09-18T23:57:40.053Z",
+      "last_pushed_at": "2026-09-22T16:23:28.846Z",
       "language": "python",
       "lines": 21
     },
