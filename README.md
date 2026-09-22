@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 30 problems · 2 labs · 3 math
+**36** solved · 31 problems · 2 labs · 3 math
 
 ![Coverage](./coverage.svg)
 
@@ -35,6 +35,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-09-18 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [BatchNorm1d Forward in Eval Mode](https://www.deep-ml.com/problems/1231) | medium | 2026-09-22 | [solution](problems/1231-batchnorm1d-forward-in-eval-mode) |
 | [Binary Cross-Entropy from Logits](https://www.deep-ml.com/problems/1229) | medium | 2026-09-22 | [solution](problems/1229-binary-cross-entropy-from-logits) |
+| [Chain Rule for Composite Functions](https://www.deep-ml.com/problems/214) | medium | 2026-09-22 | [solution](problems/0214-chain-rule-for-composite-functions) |
 | [Derivative of Cross-Entropy Loss w.r.t. Logits](https://www.deep-ml.com/problems/220) | medium | 2026-09-21 | [solution](problems/0220-derivative-of-cross-entropy-loss-w-r-t-logits) |
 | [Dropout in Train vs Eval Mode](https://www.deep-ml.com/problems/1230) | medium | 2026-09-22 | [solution](problems/1230-dropout-in-train-vs-eval-mode) |
 | [Gradient of a Weighted Sum of Squares](https://www.deep-ml.com/problems/1223) | medium | 2026-09-22 | [solution](problems/1223-gradient-of-a-weighted-sum-of-squares) |
